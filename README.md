@@ -1,6 +1,6 @@
 #  AFeLAN 
 
-This management system is designed to show the real time information about a fish farm 
+ is a comprehensive system designed to track and optimize fish farm operations
 
 ## Features
 <!-- Sales Management:
