@@ -16,8 +16,8 @@ Record income and expenses.
 Generate financial reports.
 Monitor overall project profitability. -->
 
-![alt text](https://github.com/medhatjachour/AFeLAN/blob/main/sample/img.png?raw=true)
-![alt text](https://github.com/medhatjachour/AFeLAN/blob/main/sample/img2.png?raw=true)
+![alt text](https://github.com/medhatjachour/AFeLAN/blob/main/samples/img.png?raw=true)
+![alt text](https://github.com/medhatjachour/AFeLAN/blob/main/samples/img2.png?raw=true)
 ## Installation
 
 Clone this repository to your local machine.
